@@ -1,0 +1,14 @@
+E:\CS50\.net\محمد المهدي\assigment2\bin\Debug\net8.0\assigment2.exe
+E:\CS50\.net\محمد المهدي\assigment2\bin\Debug\net8.0\assigment2.deps.json
+E:\CS50\.net\محمد المهدي\assigment2\bin\Debug\net8.0\assigment2.runtimeconfig.json
+E:\CS50\.net\محمد المهدي\assigment2\bin\Debug\net8.0\assigment2.dll
+E:\CS50\.net\محمد المهدي\assigment2\bin\Debug\net8.0\assigment2.pdb
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\assigment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\assigment2.AssemblyInfoInputs.cache
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\assigment2.AssemblyInfo.cs
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\assigment2.csproj.CoreCompileInputs.cache
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\assigment2.dll
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\refint\assigment2.dll
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\assigment2.pdb
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\assigment2.genruntimeconfig.cache
+E:\CS50\.net\محمد المهدي\assigment2\obj\Debug\net8.0\ref\assigment2.dll
